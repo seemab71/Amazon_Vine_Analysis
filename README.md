@@ -5,8 +5,7 @@ The purpose of this assignment was to analyze Amazon product review data in orde
 
 ### Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-![Analysis_Results](https://user-images.githubusercontent.com/111551902/219907207-cd9f9604-aed1-4145-bc45-12c9c116726b.png)
- 
+![image](https://user-images.githubusercontent.com/111551902/219907363-4a47a2ab-6021-4c65-99a3-feef950660fd.png)
 
 #### Summary
 There was no positivity bias for the reviews in the Vine program. There were more reviews for the non-Vine. You could also do review of helpful votes to total votes.

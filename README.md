@@ -1,13 +1,13 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis
-
+The purpose of this assignment was to analyze Amazon product review data in order to understand which product reviews were important from a user's perspective.
 
 ### Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+![Analysis_Results](https://user-images.githubusercontent.com/111551902/219907207-cd9f9604-aed1-4145-bc45-12c9c116726b.png)
+ 
 
+#### Summary
+There was no positivity bias for the reviews in the Vine program. There were more reviews for the non-Vine. You could also do review of helpful votes to total votes.
 
-#### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
